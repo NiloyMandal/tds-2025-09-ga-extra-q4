@@ -1,6 +1,6 @@
 # Q4 - GitHub Actions Workflow with Status Badge
 
-![CI](https://github.com/username/repo/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/NiloyMandal/tds-2025-09-ga-extra-q4/actions/workflows/ci.yml/badge.svg)
 
 This project demonstrates a GitHub Actions CI/CD workflow with a status badge for continuous integration visibility.
 
@@ -72,10 +72,10 @@ The CI workflow automatically:
 ![CI](https://github.com/username/repo/actions/workflows/ci.yml/badge.svg)
 ```
 
-### Replace with your repository:
+### Current Repository Badge:
 
 ```markdown
-![CI](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/NiloyMandal/tds-2025-09-ga-extra-q4/actions/workflows/ci.yml/badge.svg)
 ```
 
 ## Status Badge States
